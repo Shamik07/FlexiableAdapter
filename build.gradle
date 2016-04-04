@@ -1,0 +1,28 @@
+apply plugin: 'com.android.library'
+
+android {
+	compileSdkVersion targetSdk
+	buildToolsVersion buildTools
+
+	defaultConfig {
+		minSdkVersion minSdk
+		targetSdkVersion targetSdk
+		versionCode libraryCode
+		versionName libraryVersion + libraryDate
+	}
+	buildTypes {
+		release {
+			minifyEnabled false
+			proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+		}
+	}
+}
+
+dependencies {
+	compile supportDependencies.recyclerview
+}
+
+//apply from: '../maven-install.gradle'
+apply from: '../maven-publish.gradle'
+//apply from: '../jfrog-bintray-publish.gradle'
+//apply from: '../jfrog-artifactory-publish.gradle'

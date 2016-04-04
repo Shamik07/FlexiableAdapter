@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="animals">
+        <item>Abyssinian</item>
+        <item>Adelie Penguin</item>
+        <item>Affenpinscher</item>
+        <item>Baboon</item>
+        <item>Bactrian Camel</item>
+        <item>Badger</item>
+        <item>Caiman</item>
+        <item>Caiman Lizard</item>
+        <item>Cairn Terrier</item>
+        <item>Dachshund</item>
+        <item>Dalmatian</item>
+        <item>Darwin\'s Frog</item>
+        <item>Eagle</item>
+        <item>Earwig</item>
+        <item>Eastern Gorilla</item>
+        <item>Falcon</item>
+        <item>Fennec Fox</item>
+        <item>Ferret</item>
+        <item>Galapagos Penguin</item>
+        <item>Galapagos Tortoise</item>
+        <item>Gar</item>
+        <item>Hammerhead Shark</item>
+        <item>Hamster</item>
+        <item>Hare</item>
+        <item>Ibis</item>
+        <item>Ibizan Hound</item>
+        <item>Iguana</item>
+        <item>Jack Russel</item>
+        <item>Jackal</item>
+        <item>Jaguar</item>
+        <item>Kakapo</item>
+        <item>Kangaroo</item>
+        <item>Keel Billed Toucan</item>
+        <item>Labradoodle</item>
+        <item>Labrador Retriever</item>
+        <item>Ladybird</item>
+        <item>Macaroni Penguin</item>
+        <item>Macaw</item>
+        <item>Magellanic Penguin</item>
+        <item>Mule</item>
+        <item>Neanderthal</item>
+        <item>Neapolitan Mastiff</item>
+        <item>Newfoundland</item>
+        <item>Ocelot</item>
+        <item>Octopus</item>
+        <item>Okapi</item>
+        <item>Pademelon</item>
+        <item>Panther</item>
+        <item>Parrot</item>
+
+        <item>Quail</item>
+        <item>Quetzal</item>
+        <item>Quokka</item>
+
+        <item>Raccoon</item>
+        <item>Raccoon Dog</item>
+        <item>Radiated Tortoise</item>
+
+        <item>Sabre-Toothed Tiger</item>
+        <item>Saint Bernard</item>
+        <item>Salamander</item>
+
+        <item>Tang</item>
+        <item>Tapir</item>
+        <item>Tarsier</item>
+
+        <item>Uakari</item>
+        <item>Uguisu</item>
+        <item>Umbrellabird</item>
+
+        <item>Vampire Bat</item>
+        <item>Vervet Monkey</item>
+        <item>Vulture</item>
+
+        <item>Wallaby</item>
+        <item>Walrus</item>
+        <item>Warthog</item>
+
+        <item>X-Ray Tetra</item>
+        <item>X-Ray Tetraa</item>
+        <item>X-Ray Tetraaa</item>
+
+        <item>Yak</item>
+        <item>Yellow-Eyed Penguin</item>
+        <item>Yorkshire Terrier</item>
+
+        <item>Zebra</item>
+        <item>Zebra Shark</item>
+        <item>Zebu</item>
+
+    </string-array>
+    <declare-styleable name="RecyclerView"><attr format="string" name="layoutManager"/><attr name="android:orientation"/><attr format="integer" name="spanCount"/><attr format="boolean" name="reverseLayout"/><attr format="boolean" name="stackFromEnd"/></declare-styleable>
+    <dimen name="item_touch_helper_max_drag_scroll_per_frame">20dp</dimen>
+    <item name="item_touch_helper_previous_elevation" type="id"/>
+</resources>

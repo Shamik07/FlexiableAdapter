@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest
+    package="eu.davidea.flexibleadapter"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:versionCode="13"
+    android:versionName="5.0.0-SNAPSHOT of 2016.02.19" >
+
+    <uses-sdk
+        android:minSdkVersion="17"
+        android:targetSdkVersion="23" />
+
+</manifest>

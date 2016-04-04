@@ -1,0 +1,66 @@
+[
+    {
+        "outputFile": "E:\\x\\FlexibleAdapter\\flexible-adapter\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 93,
+                    "endColumn": 19,
+                    "endOffset": 2612
+                },
+                "from": {
+                    "file": "E:\\x\\FlexibleAdapter\\flexible-adapter\\src\\main\\res\\values\\arrays.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endLine": 93,
+                        "endColumn": 19,
+                        "endOffset": 2705
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 2889,
+                    "endColumn": 74,
+                    "endOffset": 2959
+                },
+                "from": {
+                    "file": "E:\\x\\FlexibleAdapter\\flexible-adapter\\build\\intermediates\\exploded-aar\\com.android.support\\recyclerview-v7\\23.1.1\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 500,
+                        "endColumn": 74,
+                        "endOffset": 570
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 2964,
+                    "endColumn": 65,
+                    "endOffset": 3025
+                },
+                "from": {
+                    "file": "E:\\x\\FlexibleAdapter\\flexible-adapter\\build\\intermediates\\exploded-aar\\com.android.support\\recyclerview-v7\\23.1.1\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 745,
+                        "endColumn": 65,
+                        "endOffset": 806
+                    }
+                }
+            }
+        ]
+    }
+]
